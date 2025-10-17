@@ -47,5 +47,3 @@ This project demonstrates advanced GraphQL concepts, JWT authentication, role-ba
 
 ---
 
-## **Project Structure**
-
